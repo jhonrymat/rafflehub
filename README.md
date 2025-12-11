@@ -72,12 +72,13 @@ Las contribuciones son bienvenidas. Por favor:
 
 ### 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)` para más detalles.
+Este proyecto está bajo la Licencia MIT. Ver el archivo 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/jhonrymat)
+- GitHub: [@jhonrymat](https://github.com/jhonrymat)
 
 ### 🙏 Agradecimientos
 
